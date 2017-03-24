@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1489909368 source:c:\users\swaraj\desktop\46_composition\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1489909368 c:\users\swaraj\desktop\46_composition\birthday.h
+
+1489909546 source:c:\users\swaraj\desktop\46_composition\main.cpp
+	<iostream>
+	"People.h"
+	"Birthday.h"
+
+1489909689 c:\users\swaraj\desktop\46_composition\people.h
+	<string>
+	"Birthday.h"
+
